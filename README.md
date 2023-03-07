@@ -1,4 +1,8 @@
-# WorkAdventure Map Starter Kit
+# Visit the Tree House Office
+
+https://play.workadventu.re/_/global/krisrandall.github.io/treehouse_office/inside.json
+
+### WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
