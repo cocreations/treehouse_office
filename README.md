@@ -2,6 +2,8 @@
 
 https://play.workadventu.re/_/global/krisrandall.github.io/treehouse_office/inside.json
 
+![](pic.png)
+
 ----
 
 
