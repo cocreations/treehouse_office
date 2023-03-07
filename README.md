@@ -1,6 +1,6 @@
 # Visit the Tree House Office
 
-https://play.workadventu.re/_/global/krisrandall.github.io/treehouse_office/inside.json
+https://play.workadventu.re/_/global/cocreations.github.io/treehouse_office/inside.json
 
 ![](pic.png)
 
